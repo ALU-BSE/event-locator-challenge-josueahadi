@@ -200,7 +200,7 @@ function createEventCard(event, isLarge = false) {
             <div class="card event-card h-100" onclick="viewEventDetails(${
               event.id
             })">
-                <div class="card-img-top" style="background: linear-gradient(45deg, #f093fb 0%, #f5576c 100%);">
+                <div class="card-img-top" style="background: linear-gradient(45deg, #373B44 0%, #4286f4 100%);">
                     ${event.name}
                 </div>
                 <div class="card-body d-flex flex-column">

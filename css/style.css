@@ -85,14 +85,14 @@ body {
   background: #5a6fd8;
 }
 
-.btn-success {
+/* .btn-success {
   background: linear-gradient(135deg, #56ab2f 0%, #a8e6cf 100%);
   border: none;
 }
 
 .btn-success:hover {
   background: linear-gradient(135deg, #4e9a2a 0%, #98d6bf 100%);
-}
+} */
 
 /* Form Styles */
 .form-control,
